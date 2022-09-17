@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-burger-menu": "^3.0.8",
+    "react-minimal-side-navigation": "^1.9.2"
+  }
+}

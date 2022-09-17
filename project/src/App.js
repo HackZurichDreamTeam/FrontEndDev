@@ -1,3 +1,7 @@
+//import React from 'react';
+import {Navigation} from 'react-minimal-side-navigation';
+import 'react-minimal-side-navigation/lib/ReactMinimalSideNavigation.css';
+
 
 import React, { Component } from 'react';
   
@@ -31,7 +35,6 @@ class App extends Component {
                         height='900px'
                     />
                 </div>
-  
             </div>
         );
     }
