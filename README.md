@@ -1,10 +1,12 @@
-# HackZurich
-A repo for our current challenge for this hackathon
+# Front End Development Repository for the MIGROS CHALLENGE
 
-## Table of Contents
-1. Initial Setup
+This is part of a larger project to improvement supply chain resilience using real-time warning systems from open-source data. To view our finished project see: [Supply Chain Resilience: Real-time Risk Warning at Hand](https://hackzurich22-4068.ew.r.appspot.com/admin/dashboard). 
 
-## Prerequisites
+For more information on how we use data please see our [migros analytics repo](https://github.com/HackZurichDreamTeam/migros-analytics). 
+
+Please see the following prerequistes and installation steps to develop and create our final app. 
+
+### Prerequisites
 [Git](https://gitforwindows.org/)
 
 [React](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app)
